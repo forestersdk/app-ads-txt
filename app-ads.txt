@@ -865,3 +865,6 @@ freewheel.tv, 1606620, RESELLER
 freewheel.tv, 1606633, RESELLER
 e-planning.net, 608359bb987625b2, RESELLER, c1ba615865ed87b2
 lijit.com, 500520, RESELLER, fafdf38b16bf6b2b
+zmaticoo.com, 5135082, RESELLER
+zmaticoo.com, 113149, RESELLER
+Added.tv, 3d20ca0f, RESELLER
