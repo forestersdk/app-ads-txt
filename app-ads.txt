@@ -9241,4 +9241,12 @@ trustedstack.com, TS677PGY3, RESELLER
 adyoulike.com, 721f20f70910d379981dc19ec5da709f, RESELLER
 axonix.com, 59204, RESELLER
 facebook.com, 922129215956844, DIRECT, c3e20eee3f780d68
-
+toponad.com, 1661f80179644e, DIRECT, 1d49fe424a1a456d
+onetag.com, 82e44d118b79600, DIRECT
+admatic.com.tr, adm-pub-3033566192, DIRECT, uufps1dh5stc6euk
+admixer.net, f6790c61-b9ce-49b0-b809-059710d60dfd, DIRECT
+opera.com, pub11079554715136, DIRECT, 55a0c5fd61378de3
+krushmedia.com, AJxF6R192a9M6CaTvK, DIRECT
+themediagrid.com, NG9STC, DIRECT, 35d5010d7789b49d
+zmaticoo.com, 114490, DIRECT
+smaato.com, 1100057546, DIRECT, 07bcf65f187117b4
