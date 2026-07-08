@@ -9250,3 +9250,5 @@ krushmedia.com, AJxF6R192a9M6CaTvK, DIRECT
 themediagrid.com, NG9STC, DIRECT, 35d5010d7789b49d
 zmaticoo.com, 114490, DIRECT
 smaato.com, 1100057546, DIRECT, 07bcf65f187117b4
+bidease.com, bidease_seller_26, RESELLER
+taurusx.com, 70119, RESELLER
