@@ -9252,3 +9252,4 @@ zmaticoo.com, 114490, DIRECT
 smaato.com, 1100057546, DIRECT, 07bcf65f187117b4
 bidease.com, bidease_seller_26, RESELLER
 taurusx.com, 70119, RESELLER
+google.com, pub-4929607785701304, DIRECT, f08c47fec0942fa0
