@@ -9286,3 +9286,4 @@ triplelift.com,14826,RESELLER,6c33edb13117fd86
 ushareit.com,LCc6b8b1c8aca38e6f,RESELLER
 verve.com,1007302,RESELLER,0c8f5958fc2d6282
 visiblemeasures.com,1090,RESELLER
+bidmachine.io, 1970, DIRECT
