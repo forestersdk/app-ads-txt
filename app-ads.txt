@@ -9287,3 +9287,20 @@ ushareit.com,LCc6b8b1c8aca38e6f,RESELLER
 verve.com,1007302,RESELLER,0c8f5958fc2d6282
 visiblemeasures.com,1090,RESELLER
 bidmachine.io, 1970, DIRECT
+#Pangle
+pangleglobal.com, 5025432, DIRECT
+opera.com, pub13738037153024, RESELLER, 55a0c5fd61378de3
+rubiconproject.com, 28299, RESELLER, 0bfd66d529a55807
+taurusx.com, 80068, RESELLER
+aceex.io, 2577, RESELLER, b1cf3c874d5c6682
+pubmatic.com, 164289, RESELLER, 5d62403b186f2ace
+start.io, 158727715, RESELLER
+nativo.com, 5958, RESELLER, 59521ca7cc5e9fee
+display.io, 236374, RESELLER
+bidease.com, bidease_seller_49, RESELLER
+media.net, 8CUF7U34W, RESELLER
+apester.com, 0707, RESELLER
+mobupps.com, c74d97b01eae257e44aa9d5bade97baf5001, RESELLER
+pubmatic.com, 167346, RESELLER, 5d62403b186f2ace
+bidmachine.io, 1561, RESELLER
+bidmachine.io, 1560, RESELLER
