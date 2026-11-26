@@ -9407,3 +9407,6 @@ bidmatic.io, b-4b0ed, RESELLER
 criteo.com, B-060555, RESELLER, 9fac4a4a87c2a44f
 vungle.com, 6a9e5e7810240ccc597e1ae7, DIRECT, c107d686becd2d77
 bidmachine.io, 1560, RESELLER
+bigo.sg, qyfoptvec9, RESELLER
+themediagrid.com, HW1PGR, RESELLER, 9fac4a4a87c2a44f
+video.unrulymedia.com, 841707281, RESELLER, 98c21ef9a666c68b
